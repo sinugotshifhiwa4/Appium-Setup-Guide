@@ -1,5 +1,3 @@
-Here's an improved version of your README file for the **Appium-Setup-Guide** project:
-
 ---
 
 # Appium Setup Guide
@@ -137,5 +135,3 @@ This guide provides step-by-step instructions to set up Appium and connect it to
 - [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
 
 ---
-
-This guide should now provide a clear, well-organized way to set up and use Appium. Let me know if you'd like further enhancements!
